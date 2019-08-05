@@ -1,2 +1,3 @@
 # introJS
-Curso introdução JS - Finalizado
+Curso introdução JS
+prof Douglas Quintanilha, Alura 
